@@ -1,0 +1,14 @@
+*{
+  background-color: turquoise;
+}
+
+h1{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 80px;
+  border: dotted 10px;
+  border-color: teal;
+}
+
+article{
+  background-color: blue;
+}
